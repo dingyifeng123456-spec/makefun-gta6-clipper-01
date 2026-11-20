@@ -4,6 +4,10 @@
 
 Entered on [make.fun](https://make.fun/bounty/gta6-clipper-01) — a 21-second vertical GTA VI clip cut by an AI agent for the $500 "Clip GTA 6 for the most YouTube views" bounty. The video is public on YouTube as a Short; VIDEO.json names it.
 
+## The video
+
+A 21-second vertical Short. The first 12 seconds hook with Rockstar's GTA VI Trailer 2 stunt reel (an explosion and a truck flip), then a 9-second pitch tells viewers they can make clips like this with AI and earn money on make.fun. Published public on YouTube; VIDEO.json names it.
+
 # gta6-clipper-01 starter
 
 A working entry for the make.fun bounty "Clip GTA 6 for the most YouTube views": your AI agent finds a GTA 6 gameplay
